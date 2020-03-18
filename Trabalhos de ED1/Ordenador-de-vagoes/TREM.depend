@@ -1,0 +1,121 @@
+# depslib dependency file v1.0
+1539536625 source:c:\users\ayrtt\desktop\trem\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"Lista.h"
+	"Pilha.h"
+
+1540904007 c:\users\ayrtt\desktop\trem\lista.h
+
+1540904007 source:c:\users\ayrtt\desktop\trem\lista.c
+	<stdlib.h>
+	"Lista.h"
+
+1539436921 source:c:\users\ayrtt\desktop\trem\pilha.c
+	<stdlib.h>
+	"Lista.h"
+	"Pilha.h"
+
+1539348535 c:\users\ayrtt\desktop\trem\pilha.h
+
+1540904007 source:c:\users\ayrtt\desktop\trem_2.0\trem\lista.c
+	<stdlib.h>
+	"Lista.h"
+
+1540904007 c:\users\ayrtt\desktop\trem_2.0\trem\lista.h
+
+1540906212 source:c:\users\ayrtt\desktop\trem_2.0\trem\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"Lista.h"
+	"Pilha.h"
+
+1539348535 c:\users\ayrtt\desktop\trem_2.0\trem\pilha.h
+
+1539436921 source:c:\users\ayrtt\desktop\trem_2.0\trem\pilha.c
+	<stdlib.h>
+	"Lista.h"
+	"Pilha.h"
+
+1540907607 source:c:\users\ayrtt\desktop\trabalho\trem_2.0\trem\lista.c
+	<stdlib.h>
+	"Lista.h"
+
+1540907607 c:\users\ayrtt\desktop\trabalho\trem_2.0\trem\lista.h
+
+1541792261 source:c:\users\ayrtt\desktop\trabalho\trem_2.0\trem\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"Lista.h"
+	"Pilha.h"
+
+1539352135 c:\users\ayrtt\desktop\trabalho\trem_2.0\trem\pilha.h
+
+1539440521 source:c:\users\ayrtt\desktop\trabalho\trem_2.0\trem\pilha.c
+	<stdlib.h>
+	"Lista.h"
+	"Pilha.h"
+
+1540907607 source:c:\users\ayrtt\desktop\trabalho\trem 4.0\lista.c
+	<stdlib.h>
+	"Lista.h"
+
+1540907607 c:\users\ayrtt\desktop\trabalho\trem 4.0\lista.h
+
+1539440521 source:c:\users\ayrtt\desktop\trabalho\trem 4.0\pilha.c
+	<stdlib.h>
+	"Lista.h"
+	"Pilha.h"
+
+1539352135 c:\users\ayrtt\desktop\trabalho\trem 4.0\pilha.h
+
+1542909575 source:c:\users\ayrtt\desktop\trabalho\trem 4.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"Lista.h"
+	"Pilha.h"
+
+1540907607 source:c:\users\ayrtt\desktop\ed1\trabalho\trem 4.0\lista.c
+	<stdlib.h>
+	"Lista.h"
+
+1540907607 c:\users\ayrtt\desktop\ed1\trabalho\trem 4.0\lista.h
+
+1539440521 source:c:\users\ayrtt\desktop\ed1\trabalho\trem 4.0\pilha.c
+	<stdlib.h>
+	"Lista.h"
+	"Pilha.h"
+
+1539352135 c:\users\ayrtt\desktop\ed1\trabalho\trem 4.0\pilha.h
+
+1546044345 source:c:\users\ayrtt\desktop\ed1\trabalho\trem 4.0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"Lista.h"
+	"Pilha.h"
+
+1540904007 source:c:\users\ayrtt\desktop\github\trem\lista.c
+	<stdlib.h>
+	"Lista.h"
+
+1540904007 c:\users\ayrtt\desktop\github\trem\lista.h
+
+1546040745 source:c:\users\ayrtt\desktop\github\trem\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	"Lista.h"
+	"Pilha.h"
+
+1539348535 c:\users\ayrtt\desktop\github\trem\pilha.h
+
+1539436921 source:c:\users\ayrtt\desktop\github\trem\pilha.c
+	<stdlib.h>
+	"Lista.h"
+	"Pilha.h"
+

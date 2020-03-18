@@ -1,0 +1,159 @@
+# depslib dependency file v1.0
+1535030893 source:c:\users\jose\desktop\ranking\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Mapa.h"
+
+1535029767 c:\users\jose\desktop\ranking\mapa.h
+
+1535031353 source:c:\users\jose\desktop\ranking\mapa.c
+	"Mapa.h"
+	<string.h>
+
+1535031353 source:c:\users\jose\desktop\combina플o\mapa.c
+	"Mapa.h"
+	<string.h>
+
+1535029767 c:\users\jose\desktop\combina플o\mapa.h
+
+1535120257 source:c:\users\jose\desktop\combina플o\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"Mapa.h"
+
+1535307894 source:c:\users\jose\desktop\combina플o - copia\mapa.c
+	"Mapa.h"
+	<string.h>
+
+1535308466 c:\users\jose\desktop\combina플o - copia\mapa.h
+
+1535307308 source:c:\users\jose\desktop\combina플o - copia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"Mapa.h"
+
+1535480802 source:c:\users\jose\desktop\pronto\mapa.c
+	"Mapa.h"
+	<string.h>
+
+1535311928 c:\users\jose\desktop\pronto\mapa.h
+
+1535481207 source:c:\users\jose\desktop\pronto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"Mapa.h"
+
+1535481402 source:c:\users\ayrtt\desktop\ed1\trabalho\pronto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"Mapa.h"
+
+1535311930 c:\users\ayrtt\desktop\ed1\trabalho\pronto\mapa.h
+
+1535480804 source:c:\users\ayrtt\desktop\ed1\trabalho\pronto\mapa.c
+	"Mapa.h"
+	<string.h>
+
+1536759000 source:c:\users\ayrtt\desktop\pronto_local\mapa.c
+	"Mapa.h"
+	<string.h>
+
+1536759730 c:\users\ayrtt\desktop\pronto_local\mapa.h
+
+1536758032 source:c:\users\ayrtt\desktop\pronto_local\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"Mapa.h"
+
+1537107158 source:c:\users\ayrtt\desktop\certo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"Mapa.h"
+
+1536759730 c:\users\ayrtt\desktop\certo\mapa.h
+
+1537104762 source:c:\users\ayrtt\desktop\certo\mapa.c
+	"Mapa.h"
+	<string.h>
+
+1537184736 source:c:\users\ayrtt\desktop\pronto_quebra\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<string.h>
+	"Mapa.h"
+
+1537184236 c:\users\ayrtt\desktop\pronto_quebra\mapa.h
+
+1537189106 source:c:\users\ayrtt\desktop\pronto_quebra\mapa.c
+	"Mapa.h"
+	<string.h>
+
+1537356446 source:c:\users\ayrtt\desktop\trabalho\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<windows.h>
+	"Mapa.h"
+
+1537299789 c:\users\ayrtt\desktop\trabalho\mapa.h
+
+1537301346 source:c:\users\ayrtt\desktop\trabalho\mapa.c
+	"Mapa.h"
+	<string.h>
+
+1537357302 source:c:\users\ayrtt\desktop\trabalho_ordena플o\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+	<windows.h>
+	"Mapa.h"
+
+1537357631 c:\users\ayrtt\desktop\trabalho_ordena플o\mapa.h
+
+1537359204 source:c:\users\ayrtt\desktop\trabalho_ordena플o\mapa.c
+	"Mapa.h"
+	<string.h>
+
+1537363888 source:c:\users\ayrtt\desktop\trabalho pronto\mapa.c
+	"Mapa.h"
+	<string.h>
+
+1537364098 c:\users\ayrtt\desktop\trabalho pronto\mapa.h
+
+1549367279 source:c:\users\ayrtt\desktop\100%\mapa.c
+	"Mapa.h"
+	<string.h>
+
+1537367698 c:\users\ayrtt\desktop\100%\mapa.h
+
+1549367567 source:c:\users\ayrtt\desktop\100%\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"Mapa.h"
+
+1549364160 source:c:\users\ayrtt\desktop\github\ranking\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	"Mapa.h"
+
+1537364098 c:\users\ayrtt\desktop\github\ranking\mapa.h
+
+1549364137 source:c:\users\ayrtt\desktop\github\ranking\mapa.c
+	"Mapa.h"
+	<string.h>
+
